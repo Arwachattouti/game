@@ -15,8 +15,8 @@ export const LEVELS: Level[] = [
     description: "Collect light to guide your way.",
     gameType: 'clicker',
     targetScore: 14,
-    message: "May Allah guide your steps towards every goodness and grant you clarity in all your decisions. ✨"
-  },
+    message: "As night falls, shield yourself with the Adhkar. May Allah grant you a restful sleep and protect your soul until you wake. Don't forget: 'Bismika Allahumma amutu wa ahya'. 🌙✨"
+},
   {
     id: 2,
     title: "Mission: Hidden Heart",
@@ -56,7 +56,7 @@ export const LEVELS: Level[] = [
     description: "Combine all your energy for a massive burst.",
     gameType: 'clicker',
     targetScore: 60,
-    message: "May Allah facilitate for you whatever is best for your Deen, your life, and your future. ✨🤲"
+    message: "Keep your heart for Allah alone… and let everything else fade🤍 , May Allah facilitate for you whatever is best for your Deen, your life, and your future. ✨🤲"
   },
   {
     id: 7,
@@ -65,7 +65,7 @@ export const LEVELS: Level[] = [
     gameType: 'speed',
     targetScore: 45,
     timeLimit: 10,
-    message: "In times of haste or stress, may Allah grant you calmness (Sakina) and protect you from all harm. 🛡️"
+    message: "Reduce online noise and ragebait… protect your calm and stay focused on Allah. 🛡️"
   },
   {
     id: 8,
