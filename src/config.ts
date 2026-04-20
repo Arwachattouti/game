@@ -15,7 +15,7 @@ export const LEVELS: Level[] = [
     description: "Collect light to guide your way.",
     gameType: 'clicker',
     targetScore: 14,
-    message: "May your night be as peaceful as the stars, and your dreams as bright as the sun. ✨"
+    message: "May Allah guide your steps towards every goodness and grant you clarity in all your decisions. ✨"
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ export const LEVELS: Level[] = [
     description: "A rare treasure is hidden in the dark.",
     gameType: 'find',
     targetScore: 5,
-    message: "I appreciate your kindness and the way you care. You're truly special. 💖"
+    message: "May Allah preserve your integrity and increase you in wisdom, patience, and good character. 🕊️"
   },
   {
     id: 3,
@@ -31,7 +31,7 @@ export const LEVELS: Level[] = [
     description: "Power up for the challenges ahead.",
     gameType: 'clicker',
     targetScore: 30,
-    message: "May Allah protect you and give you strength in everything you do. I'm always rooting for you. 🤲🌙"
+    message: "May Allah grant you the strength to overcome any obstacle and provide you with ease (Yusr) after every hardship. 🤲🌙"
   },
   {
     id: 4,
@@ -40,7 +40,7 @@ export const LEVELS: Level[] = [
     gameType: 'speed',
     targetScore: 22,
     timeLimit: 8,
-    message: "I'm so grateful to have you as my teammate in this game called life. You make everything better. 🎮✨"
+    message: "May Allah grant you Tawfiq (success) in your endeavors and bless your time with productivity and peace. 🎮✨"
   },
   {
     id: 5,
@@ -48,7 +48,7 @@ export const LEVELS: Level[] = [
     description: "Find the moving fragments of my heart.",
     gameType: 'moving',
     targetScore: 7,
-    message: "I'm so proud of all the hard work you do. You're a hero in my eyes. 🦸‍♂️💙"
+    message: "May Allah bless your hard work, open the doors of Rizq (provision) for you, and reward your persistence. 💼✨"
   },
   {
     id: 6,
@@ -56,7 +56,7 @@ export const LEVELS: Level[] = [
     description: "Combine all your energy for a massive burst.",
     gameType: 'clicker',
     targetScore: 60,
-    message: "May your heart always be filled with joy and your path always be clear. You deserve the best. ✨🤲"
+    message: "May Allah facilitate for you whatever is best for your Deen, your life, and your future. ✨🤲"
   },
   {
     id: 7,
@@ -65,7 +65,7 @@ export const LEVELS: Level[] = [
     gameType: 'speed',
     targetScore: 45,
     timeLimit: 10,
-    message: "Even on your toughest days, remember you're doing amazing. I'll always be your support. 🛡️💖"
+    message: "In times of haste or stress, may Allah grant you calmness (Sakina) and protect you from all harm. 🛡️"
   },
   {
     id: 8,
@@ -73,18 +73,17 @@ export const LEVELS: Level[] = [
     description: "Unleash the ultimate light. The final challenge.",
     gameType: 'moving',
     targetScore: 12,
-    message: "You've completed all missions! Just remember: you are enough, you are loved, and you are my favorite player. ❤️🏆"
+    message: "Missions complete. May Allah accept your efforts, answer your prayers, and always keep you under His guidance. 🏆"
   }
 ];
 
 export const SURPRISE_MESSAGES = [
-  "You're doing great today! 🌟",
-  "Sending you a warm digital hug. 🤗",
-  "Don't forget to drink some water! 💧",
-  "You are capable of amazing things. 💪",
-  "May your day be filled with unexpected smiles. 😊",
-  "Allah has something beautiful planned for you. 🤲",
-  "I'm so lucky to know you. 🍀",
-  "You make the world a bit brighter. ✨"
+  "May Allah put Barakah (blessing) in your day and your work. 🌟",
+  "May your path always be easy and filled with success. 🤗",
+  "Don't forget to take a break; your health is an Amanah (trust). 💧",
+  "May Allah grant you success that exceeds your expectations. 💪",
+  "May you always find peace in the remembrance of Allah. 😊",
+  "Protect your peace of mind: avoid toxic content or 'ragebait' that brings no benefit to your soul. 🕊️",
+  "Alhamdulillah for the progress you have made so far. 🍀",
+  "May Allah choose for you what is best, even if it's hidden from your sight. ✨"
 ];
-
